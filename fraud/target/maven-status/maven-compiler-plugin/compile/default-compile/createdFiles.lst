@@ -1,0 +1,7 @@
+com/vicheanath/fraud/FraudCheckResponse.class
+com/vicheanath/fraud/FraudApplication.class
+com/vicheanath/fraud/FraudCheckHistoryRepository.class
+com/vicheanath/fraud/FraudController.class
+com/vicheanath/fraud/FraudCheckService.class
+com/vicheanath/fraud/FraudCheckHistory$FraudCheckHistoryBuilder.class
+com/vicheanath/fraud/FraudCheckHistory.class
